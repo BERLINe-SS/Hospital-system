@@ -1,0 +1,111 @@
+PID  PType PT   VT   FT   WT   TT   Cancel Resc
+P94  N     148  94   466  342  30   F      T
+P1   N     57   14   461  427  20   F      T
+P50  N     67   54   453  385  14   F      T
+P29  N     60   39   451  382  30   F      T
+P61  N     62   60   445  371  14   F      F
+P38  N     57   47   431  366  18   F      F
+P83  N     78   77   419  320  22   F      F
+P42  N     52   48   419  349  22   F      F
+P75  N     73   69   419  324  26   F      F
+P28  N     40   38   413  342  33   F      F
+P99  R     100  96   413  300  17   T      F
+P48  N     61   53   411  327  31   F      F
+P60  N     70   60   410  331  19   T      F
+P92  R     98   90   403  300  13   T      F
+P54  R     79   56   392  314  22   F      T
+P77  R     73   69   389  310  10   T      F
+P98  R     96   96   388  272  20   T      F
+P64  R     65   64   387  308  15   T      F
+P88  N     94   87   384  282  15   T      F
+P21  N     35   34   372  307  31   F      F
+P73  R     72   68   368  272  28   T      F
+P100 N     100  100  367  246  21   F      F
+P72  R     75   67   366  281  18   T      F
+P35  R     55   45   365  302  18   F      F
+P5   N     37   19   362  324  19   F      T
+P70  R     66   66   359  290  3    T      F
+P45  R     57   49   346  272  25   F      F
+P34  R     69   43   341  279  19   T      T
+P82  R     102  77   335  244  14   T      T
+P17  R     34   29   334  285  20   F      F
+P56  R     63   57   329  251  21   T      F
+P95  R     98   94   326  229  3    T      F
+P97  R     98   95   323  215  13   T      F
+P76  R     110  69   321  247  5    T      T
+P86  R     81   80   319  227  12   F      F
+P57  R     64   57   315  239  19   T      F
+P78  R     85   71   311  236  4    T      T
+P46  N     56   50   308  251  7    T      F
+P81  N     81   75   307  228  4    F      T
+P62  R     71   63   303  231  9    F      F
+P27  R     44   37   300  246  17   T      F
+P59  R     68   59   294  224  11   F      F
+P84  R     146  77   293  216  0    T      T
+P63  N     67   63   287  217  7    F      F
+P36  R     47   46   282  221  15   T      F
+P43  R     54   48   279  221  10   T      F
+P71  R     66   66   274  194  14   F      F
+P96  N     98   94   267  173  0    T      F
+P58  R     59   59   261  199  3    T      F
+P16  R     39   29   260  212  19   F      F
+P53  N     62   55   252  186  11   F      F
+P30  R     39   39   251  196  16   T      F
+P49  R     54   54   249  187  8    T      F
+P74  N     70   68   243  166  9    T      F
+P7   R     32   22   239  200  17   T      F
+P13  N     44   27   231  183  21   F      T
+P52  R     73   55   231  163  13   T      T
+P66  R     73   65   226  140  21   T      F
+P91  N     90   88   223  124  11   T      F
+P47  N     53   53   216  144  19   F      F
+P69  R     68   66   216  135  15   T      F
+P51  R     64   54   213  145  14   T      F
+P25  N     47   37   203  158  8    T      F
+P40  R     51   47   195  134  14   T      F
+P68  R     75   66   190  116  8    T      F
+P11  N     51   23   186  151  12   F      T
+P3   N     30   16   183  154  13   F      T
+P9   N     23   22   180  130  28   F      F
+P93  R     95   92   177  73   12   T      F
+P44  N     50   49   160  103  8    F      F
+P39  R     50   47   152  91   14   F      F
+P6   N     24   21   149  110  18   F      F
+P79  R     81   73   145  72   0    T      F
+P80  N     74   73   141  68   0    T      F
+P37  N     49   47   138  84   7    F      F
+P55  N     66   56   135  79   0    T      F
+P41  R     52   47   132  72   13   T      F
+P32  N     46   41   131  84   6    F      F
+P87  R     80   80   131  51   0    T      F
+P33  R     53   43   128  85   0    T      F
+P31  N     45   39   125  78   8    F      F
+P19  R     32   32   122  67   23   T      F
+P26  N     44   37   117  70   10   F      F
+P90  R     90   87   113  26   0    T      F
+P4   R     39   17   111  87   7    T      T
+P14  R     28   27   109  61   21   T      F
+P89  N     89   87   104  17   0    T      F
+P22  N     38   34   94   54   6    F      F
+P67  R     67   66   92   26   0    T      F
+P10  R     23   23   88   40   25   F      F
+P85  R     83   78   84   6    0    T      F
+P24  R     67   36   74   38   0    T      T
+P15  R     30   27   73   42   4    F      F
+P65  N     68   65   73   8    0    T      F
+P20  R     33   33   57   24   0    T      F
+P23  N     46   35   53   18   0    T      T
+P2   R     21   14   50   18   18   F      F
+P12  N     24   24   47   23   0    T      F
+P18  N     31   30   37   7    0    T      F
+P8   R     25   22   29   4    3    T      F
+
+Total number of timesteps = 467
+Total number of All, N, R = 100, 43, 57
+Average total waiting time of All, N, R = 184.29, 197.512, 174.316
+Average total treatment time  of All, N, R = 12.61, 13.4419, 11.9825
+Percentage of patients that accepted cancellation (%) = 58 %
+Percentage of patients that accepted rescheduling (%) = 19 %
+Percentage of early patients (%) = 87 %
+Percentage of late patients (%) = 0 %
+Average late penalty = 0 timestep(s)
